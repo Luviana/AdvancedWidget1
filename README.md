@@ -14,6 +14,6 @@ JUDUL : ADD WIDGET PROGRAMMATICALLY
 - Nama          : LUVIANA DEWI INDIRASARI
 - Kelas         : XI RPL 2
 - Nomor         : 14
-- NIS           : 4751
+- NIS           : 47410
 - Nama Sekolah  : SMK Telkom Malang
 
